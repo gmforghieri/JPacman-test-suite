@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.board.DirectionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-19T21:05:04" hostname="MSI" time="0.171">
+  <properties/>
+  <testcase name="testNorth()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.166"/>
+  <testcase name="testSouth()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.001"/>
+  <testcase name="testEast()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.001"/>
+  <testcase name="testWest()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

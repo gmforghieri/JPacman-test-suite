@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.game.GameUnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-19T21:05:05" hostname="MSI" time="0.17">
+  <properties/>
+  <testcase name="startValid()" classname="nl.tudelft.jpacman.game.GameUnitTest" time="0.156"/>
+  <testcase name="startInProgress()" classname="nl.tudelft.jpacman.game.GameUnitTest" time="0.005"/>
+  <testcase name="startInvalidNoPellets()" classname="nl.tudelft.jpacman.game.GameUnitTest" time="0.003"/>
+  <testcase name="startInvalidDeadPlayer()" classname="nl.tudelft.jpacman.game.GameUnitTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.17">
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\Launcher.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\MultiLevelLauncher.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\PacmanConfigurationException.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\board\Board.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\board\BoardFactory.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\board\Direction.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\board\Square.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\board\Unit.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\game\Game.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\game\GameFactory.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\game\MultiLevelGame.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\game\SinglePlayerGame.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\CollisionInteractionMap.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\CollisionMap.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\DefaultPlayerInteractionMap.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\Level.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\LevelFactory.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\MapParser.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\Pellet.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\Player.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\PlayerCollisions.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\level\PlayerFactory.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\Ghost.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\Blinky.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\Clyde.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\GhostColor.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\GhostFactory.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\Inky.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\Navigation.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\Pinky.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\npc\ghost\package-info.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\points\DefaultPointCalculator.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\points\PointCalculator.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\points\PointCalculatorLoader.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\sprite\AnimatedSprite.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\sprite\EmptySprite.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\sprite\ImageSprite.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\sprite\PacManSprites.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\sprite\Sprite.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\sprite\SpriteStore.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\ui\Action.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\ui\BoardPanel.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\ui\ButtonPanel.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\ui\PacKeyListener.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\ui\PacManUI.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\ui\PacManUiBuilder.java">
+</file>
+<file name="D:\Local Repositories\CSE1110-A-Group-111\src\main\java\nl\tudelft\jpacman\ui\ScorePanel.java">
+</file>
+</checkstyle>

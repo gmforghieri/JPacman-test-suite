@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.integration.suspension.SuspendSystemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-06-19T21:05:05" hostname="MSI" time="0.055">
+  <properties/>
+  <testcase name="gameIsSuspended()" classname="nl.tudelft.jpacman.integration.suspension.SuspendSystemTest" time="0.055"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
